@@ -1,0 +1,122 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: 'Rancho', cursive;
+  font-size: 20px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 75px;
+  margin-top: -10%;
+  margin-bottom: 20%;
+  color: #ff9d9d;
+  text-shadow: 5px 5px white;
+}
+
+h2 {
+  font-family: 'Gochi Hand', cursive;
+  color: #315b96;
+  font-weight: normal;
+  text-shadow: 3px 3px white;
+  padding-top: 30px;
+}
+
+h3 {
+  color: #315b96;
+  font-family: 'Gochi Hand', cursive;
+}
+
+p {
+  color: #315b96;
+  text-shadow: 2.5px 2.5px #e3fdfd;
+}
+
+hr {
+  background-color: #fbc1bc;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #315b96;
+  border-width: 5px;
+  height: 2px;
+  width: 8%;
+}
+
+.rainbow {
+  width: 20%;
+
+}
+
+.top-container {
+  background-color: #ffdfdf;
+  position: relative;
+}
+
+
+.bottom-container {
+  background-color: #ffdfdf;
+  padding: 50px 0 20px;
+}
+
+.profile {
+  width: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+  text-align: left;
+  font-size: 160%;
+}
+
+.channel {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.drawing {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.student {
+  position: relative;
+  left: auto;
+  bottom: 150px;
+}
+
+.smile {
+  color: #ffb6b9;
+  text-shadow: 2.5px 2.5px white;
+}
+
+.btn {
+  color: #769fcd;
+  text-shadow: 1px 1px white;
+  font-family: 'Dancing Script', cursive;
+}
+
+.footer-link {
+  color: #769fcd;
+  text-shadow: 1px 1px white;
+  font-family: 'Dancing Script', cursive;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: #315b96;
+  text-shadow: 1px 1px white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  bottom: 3px;
+}
